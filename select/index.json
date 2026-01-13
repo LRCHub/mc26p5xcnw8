@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ROCK IN!",
+  "base_artist": "古石ビジュー",
+  "createdAt": "2026-01-13T16:23:10.744373Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chris Rock In Da Club",
+      "artist": "Lil Jon & The East Side Boyz",
+      "has_synced": true,
+      "path": "select/01_Chris_Rock_In_Da_Club_Lil_Jon_&_The_East_Side_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chris Rock in da Club (Skit)",
+      "artist": "Lil Jon & The Eastside Boyz",
+      "has_synced": true,
+      "path": "select/02_Chris_Rock_in_da_Club_(Skit)_Lil_Jon_&_The_Eastside_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rock In The Rain",
+      "artist": "Money Mark",
+      "has_synced": false,
+      "path": "select/03_Rock_In_The_Rain_Money_Mark.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(You Can Still) Rock in America",
+      "artist": "Night Ranger",
+      "has_synced": false,
+      "path": "select/04_(You_Can_Still)_Rock_in_America_Night_Ranger.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fear of the Dark - Live At Rock in Rio; 2015 Remastered Version",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/05_Fear_of_the_Dark_-_Live_At_Rock_in_Rio;_2015_Remastered_Version_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rock In This Pocket (Song Of David)",
+      "artist": "Suzanne Vega",
+      "has_synced": true,
+      "path": "select/06_Rock_In_This_Pocket_(Song_Of_David)_Suzanne_Vega.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rock In Space",
+      "artist": "The Darkness",
+      "has_synced": true,
+      "path": "select/07_Rock_In_Space_The_Darkness.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "R.I.P. (Rock In Peace)",
+      "artist": "AC/DC",
+      "has_synced": false,
+      "path": "select/08_R.I.P._(Rock_In_Peace)_AC_DC.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rock In A Hard Place (Cheshire Cat)",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/09_Rock_In_A_Hard_Place_(Cheshire_Cat)_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rock In Rio Blues - Live / B-Side / Remastered 2011",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/10_Rock_In_Rio_Blues_-_Live___B-Side___Remastered_2011_Queen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rock in Rio Blues (live)",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/11_Rock_in_Rio_Blues_(live)_Queen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "R.I.P. (Rock In Peace)",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/12_R.I.P._(Rock_In_Peace)_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Of My Life - Live At Rock In Rio",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/13_Love_Of_My_Life_-_Live_At_Rock_In_Rio_Queen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love of My Life [Live at Rock in Rio, Jan. 1985, Soundtrack Edit]",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/14_Love_of_My_Life_[Live_at_Rock_in_Rio,_Jan._1985,_Soundtrack_Edit]_Queen.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rock in Rio Blues [Live UK Version from Rock in Rio, Jan. 1985]",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/15_Rock_in_Rio_Blues_[Live_UK_Version_from_Rock_in_Rio,_Jan._1985]_Queen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love of My Life [live at Rock in Rio, Jan 1985, soundtrack edit]",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/16_Love_of_My_Life_[live_at_Rock_in_Rio,_Jan_1985,_soundtrack_edit]_Queen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ROCK IN!",
+      "artist": "古石ビジュー",
+      "has_synced": false,
+      "path": "select/pl_01_ROCK_IN!_古石ビジュー.txt"
+    }
+  ]
+}
